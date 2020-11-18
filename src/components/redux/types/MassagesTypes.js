@@ -1,0 +1,15 @@
+
+export const CARD_MASSAGE = "CARD_MASSAGE"; 
+export const HIDE_CARD_MASSAGE = "HIDE_CARD_MASSAGE"; 
+
+export const VERIFY_MASSAGE = "VERIFY_MASSAGE"; 
+export const HIDE_VERIFY_MASSAGE = "HIDE_VERIFY_MASSAGE"; 
+
+export const CVV2_MASSAGE = "CVV2_MASSAGE"; 
+export const HIDE_CVV2_MASSAGE = "HIDE_CVV2_MASSAGE"; 
+
+export const ERROR_MASSAGE = "ERROR_MASSAGE"; 
+export const HIDE_ERROR_MASSAGE = "HIDE_ERROR_MASSAGE"; 
+
+export const TODEFAULT = "TODEFAULT"; 
+

@@ -15,7 +15,6 @@ export default function Massage({success, notFound, text}) {
     const hideMassaegHandeler = () => {
         dispatch(hideErrorMassage()); 
     }
-    
 
     if(notFound){
         return(
